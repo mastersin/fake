@@ -1,6 +1,6 @@
 setup(int a)
 {
-    a = ;1
+    a = 3;
 }
 
 loop()
